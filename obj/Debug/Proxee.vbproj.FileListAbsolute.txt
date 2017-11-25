@@ -1,0 +1,20 @@
+C:\Users\alex\Desktop\Proxee - Copy\bin\Debug\Proxee.exe.config
+C:\Users\alex\Desktop\Proxee - Copy\bin\Debug\Proxee.exe
+C:\Users\alex\Desktop\Proxee - Copy\bin\Debug\Proxee.pdb
+C:\Users\alex\Desktop\Proxee - Copy\bin\Debug\Proxee.xml
+C:\Users\alex\Desktop\Proxee - Copy\obj\Debug\Proxee.Proxee.resources
+C:\Users\alex\Desktop\Proxee - Copy\obj\Debug\Proxee.Resources.resources
+C:\Users\alex\Desktop\Proxee - Copy\obj\Debug\Proxee.vbproj.GenerateResource.Cache
+C:\Users\alex\Desktop\Proxee - Copy\obj\Debug\Proxee.exe
+C:\Users\alex\Desktop\Proxee - Copy\obj\Debug\Proxee.xml
+C:\Users\alex\Desktop\Proxee - Copy\obj\Debug\Proxee.pdb
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\bin\Debug\proxee.exe.config
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\obj\Debug\proxee.exe
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\obj\Debug\proxee.xml
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\obj\Debug\proxee.pdb
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\bin\Debug\proxee.exe
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\bin\Debug\proxee.pdb
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\bin\Debug\proxee.xml
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\obj\Debug\proxee.Resources.resources
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\obj\Debug\proxee.Proxee.resources
+G:\Proxee August 2015\Proxee with AutoUpdate 1282016\Proxee with AutoUpdate 1282016\obj\Debug\Proxee.vbproj.GenerateResource.Cache

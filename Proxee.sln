@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Proxee", "Proxee.vbproj", "{4313798D-5349-4988-ADCD-26C62B6A722D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ClosedBox|Any CPU = ClosedBox|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Proxee|Any CPU = Proxee|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ServerUnavailable.com|Any CPU = ServerUnavailable.com|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.ClosedBox|Any CPU.ActiveCfg = ClosedBox|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.ClosedBox|Any CPU.Build.0 = ClosedBox|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.Proxee|Any CPU.ActiveCfg = Proxee|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.Proxee|Any CPU.Build.0 = Proxee|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.ServerUnavailable.com|Any CPU.ActiveCfg = ServerUnavailable.com|Any CPU
+		{4313798D-5349-4988-ADCD-26C62B6A722D}.ServerUnavailable.com|Any CPU.Build.0 = ServerUnavailable.com|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
